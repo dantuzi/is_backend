@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.antuzi
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, lombok, management, micrometer, micrometer-prometheus, micronaut-build, mysql, netty-server, openapi, readme, security-annotations, security-jwt, shade, swagger-ui, test-resources, testcontainers, yaml]
